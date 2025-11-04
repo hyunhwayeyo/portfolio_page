@@ -1,3 +1,15 @@
+title: "이현화 UX 포트폴리오"
+description: "UX/HCI 석사과정 · 사용자 중심의 경험 설계"
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
+
+author:
+  name: "이현화"
+  avatar: "/assets/images/test.jpg"
+  bio: "UX/HCI 석사과정 중 · 포용적 디자인 · 사용자 중심 리서치"
+  location: "Seoul, Korea"
+
+markdown: kramdown
+highlighter: rouge
